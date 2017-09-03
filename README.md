@@ -15,7 +15,7 @@ The second step is to define basic values of parameters such as minimum support,
   git clone https://github.com/simonorozcoarias/co-ocurrence_analysis.git
 
 # How to run
-python file_with_data.txt distance_en_meters
+python disespAlgor.py file_with_data.txt distance_en_meters
 
 # References 
 Agrawal, R., & Srikant, R. (1994). Fast algorithms for mining association rules. Proceeding VLDB ’94 Proceedings of the 20th International Conference on Very Large Data Bases, 1215, 487–499. https://doi.org/10.1.1.40.6757
