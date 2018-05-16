@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 
 ######################################################################
-#               Implemented by Simon Orozco			     #
-#                          BIOS					     #
+#               Implemented by Simon Orozco			                     #
 ######################################################################
 import sys
 import math
